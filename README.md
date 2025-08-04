@@ -1,6 +1,6 @@
 # Vendor Dashboard
 
-> A role-based invoice management system using PHP, MySQL, HTML, and CSS.
+> A role-based invoice management system using PHP, MySQL, HTML, and CSS.(only dashboard)
 
 ## 🔧 Features
 - Authentication & Role Management
